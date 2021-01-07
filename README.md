@@ -14,8 +14,11 @@
 
 #### Git, Scrum, Kanban, cmd, npm, Webpacks, Discord, Trello, VS Code, Visual Studio, SQL Server Studio, Postman, MySQL WorkBench, IIS, AWS, EC2, S3, CodeCommit, GitHub, BitBucket, RegistroBr, GoDaddy, HTTPS, Gulp, Grunt, Adobe Photoshop, Adobe Illustrator.
 
+
 ### Currículo Completo:
 https://docs.google.com/document/d/1gCVHHKq4wQlK-eSOwdGrQV1h4Jogz1enasPDgCa3cis
 
 ### Contato: 
-#### Erick +55 (11) 96500 8161 / erick.ocrs@gmail.com
+Erick +55 (11) 96500 8161
+erick.ocrs@gmail.com
+linkedin.com/in/erick-ocrs
