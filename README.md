@@ -19,6 +19,6 @@
 https://docs.google.com/document/d/1gCVHHKq4wQlK-eSOwdGrQV1h4Jogz1enasPDgCa3cis
 
 ### Contato: 
-Erick +55 (11) 96500 8161
-erick.ocrs@gmail.com
-linkedin.com/in/erick-ocrs
+##### Erick +55 (11) 96500 8161
+##### erick.ocrs@gmail.com
+##### linkedin.com/in/erick-ocrs
