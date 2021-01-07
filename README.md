@@ -17,5 +17,5 @@
 ### Currículo Completo:
 https://docs.google.com/document/d/1gCVHHKq4wQlK-eSOwdGrQV1h4Jogz1enasPDgCa3cis
 
-### Erick - +55 (11) 96500 8161
-### erick.ocrs@gmail.com
+### Contato: 
+#### Erick - +55 (11) 96500 8161 / erick.ocrs@gmail.com
