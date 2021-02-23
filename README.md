@@ -10,7 +10,7 @@
 [ Fast develop of responsive, cross-browser, clean code layouts. SASS skilss, JSX, ease in developing creative animations and interactions with HTML5, CSS3 and Javascript.  Aways avaiable to learn new library's and frameworks's.] 
 
 ### SQL, MySQL, MongoDB
-[ Data modeling, Query's, Scripts, Models, Procedures, import and exporting data and reports. ] 
+[ Data modeling, Query's, Scripts, Models, Procedures, import and exporting data/reports. ] 
 
 Git, Scrum, Kanban, TDD, BDD, cmd, npm, webpacks, Docker, Discord, Trello, VS Code, Visual Studio, SQL Server Studio, Postman, MySQL WorkBench, IIS, AWS, EC2, S3, CodeCommit, GitHub, BitBucket, RegistroBr, GoDaddy, HTTPS, Gulp, Grunt, Adobe Photoshop, Adobe Illustrator.
 
