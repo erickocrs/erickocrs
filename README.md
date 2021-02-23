@@ -7,7 +7,7 @@
 [ MVC structures, website develop, API/web services and general backends systems. Framework's: ASP.Net MVC, Entity Framework, PHP CodeIgniter, PHP Symfony, educational platform Moodle PHP. Database conections with SQL, MySQL. Avaiable to learn new library's and frameworks's. ]
 
 ### HTML/CSS
-[ Fast develop of responsive, cross-browser, clean code layouts. SASS skilss, JSX, ease in developing creative animations and interactions with HTML5, CSS3 and Javascript.  Aways avaiable to learn new library's and frameworks's.] 
+[ Fast develop of responsive, cross-browser, clean code layouts. SASS, JSX skillss, experience using Node webpack's like Grunt, Gulp, Next, React. Ease in developing creative animations and interactions with CSS3. Aways avaiable to learn new library's and frameworks's.] 
 
 ### SQL, MySQL, MongoDB
 [ Data modeling, Query's, Scripts, Models, Procedures, import and exporting data/reports. ] 
